@@ -1,0 +1,6 @@
+# Raw test-run logs can contain tokens/response content
+protocol/objects/*
+!protocol/objects/.gitkeep
+
+__pycache__/
+*.pyc
